@@ -1,0 +1,10 @@
+version: "Apple Swift version 5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)"
+options: "18b79e19115a00ef6a1c0e392e62d8cb"
+build_time: [1623489928, 898115000]
+inputs:
+  "/Users/alexandr/Desktop/Swifbook/To-Do-List/To-Do-List/AppDelegate.swift": [1616257710, 106441371]
+  "/Users/alexandr/Desktop/Swifbook/To-Do-List/To-Do-List/SceneDelegate.swift": [1616327794, 888396382]
+  "/Users/alexandr/Desktop/Swifbook/To-Do-List/To-Do-List/TableViewController.swift": [1616327167, 750036497]
+  "/Users/alexandr/Desktop/Swifbook/To-Do-List/build/To-Do-List.build/Debug-iphonesimulator/To-Do-List.build/DerivedSources/CoreDataGenerated/To_Do_List/Task+CoreDataClass.swift": [1623266044, 446814038]
+  "/Users/alexandr/Desktop/Swifbook/To-Do-List/build/To-Do-List.build/Debug-iphonesimulator/To-Do-List.build/DerivedSources/CoreDataGenerated/To_Do_List/Task+CoreDataProperties.swift": [1623266044, 447333407]
+  "/Users/alexandr/Desktop/Swifbook/To-Do-List/build/To-Do-List.build/Debug-iphonesimulator/To-Do-List.build/DerivedSources/CoreDataGenerated/To_Do_List/To_Do_List+CoreDataModel.swift": [1623266044, 445842423]
